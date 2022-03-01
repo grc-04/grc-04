@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also good at Crosswords and Quizzing
 -->
-![Visitor Count](https : //profile-counter.glitch.me/grc-04/count.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grc-04)](https://github.com/anuraghazra/github-readme-stats)
