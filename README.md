@@ -7,7 +7,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also good at Crosswords and Quizzing
 
-
+Let's Connect!
+<div id="badges">
+  <a href="https://www.linkedin.com/in/garvchandalia">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 ---
 
 ## &#x1f4c8; My GitHub Stats
