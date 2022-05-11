@@ -13,8 +13,9 @@ Let's Connect!
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
+  <br>
  
-  <a href="https;//www.garvchandaliatech.wordpress.com"> My Technical Blog :</a>
+  <a href="https://garvchandaliatech.wordpress.com/"> My Technical Blog </a>
     
   
   
