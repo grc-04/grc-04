@@ -4,7 +4,6 @@
 - 🤔 I’m looking for help with Blockchain, Web3
 - 💬 Ask me about Cryptic Hunts and CTFs
 - 📫 How to reach me: garvchandalia04@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also good at Crosswords and Quizzing
 
 Let's Connect!
