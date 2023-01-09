@@ -5,6 +5,7 @@
 - 💬 Ask me about Cryptic Hunts and CTFs
 - 📫 How to reach me: garvchandalia04@gmail.com
 - ⚡ Fun fact: I'm also good at Crosswords and Quizzing
+- My Personal website: <a href="https://garvchandalia.netlify.app/">  https://garvchandalia.netlify.app/ </a>
 
 Let's Connect!
 <div id="badges">
