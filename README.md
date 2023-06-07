@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Garv Chandalia
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Generative Aritficial Intelligence
 - 👯 I’m looking to collaborate on Machine Learning
-- 🤔 I’m looking for help with Blockchain, Web3
+- 🤔 I’m looking for help with Blockchain, Data Structures and Algorithms
 - 💬 Ask me about Cryptic Hunts and CTFs
 - 📫 How to reach me: garvchandalia04@gmail.com
 - ⚡ Fun fact: I'm also good at Crosswords and Quizzing
